@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">compass_magnetometer_test</string>
+    <string name="degrees_format">%1$.1f degrees</string>
+</resources>
